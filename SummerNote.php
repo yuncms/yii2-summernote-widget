@@ -27,7 +27,6 @@ class SummerNote extends InputWidget
 
     /**
      * {@inheritDoc}
-     * @see \yii\base\Object::init()
      */
     public function init()
     {
